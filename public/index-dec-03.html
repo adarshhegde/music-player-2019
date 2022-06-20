@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html lang="en-US">
+
+<head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>Music</title>
+    <link rel="manifest" href="/manifest.json">
+    <link rel="icon" href="favicon.png" />
+    <meta name= "theme-color" content="#000000" />
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Nunito" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Roboto+Condensed" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Oswald" rel="stylesheet">
+    <link rel="stylesheet" type="text/css" media="screen" href="css/home-dec-03.css" />
+    <script src="https://cdn.jsdelivr.net/npm/lozad/dist/lozad.min.js"></script>
+    <script src="script/jq.js"></script>
+
+</head>
+
+<body>
+
+    <div id="album-tracks-area">
+        <div id="back-to-albums-btn">
+            <i class="material-icons">
+                arrow_back_ios
+            </i>
+        </div>
+        <img class="album-art-main" src="img/kek.jpg" />
+        <div id="album-artist">
+            <span class="artist-name-main">
+
+            </span>
+            <span class="album-name-main"></span>
+
+        </div>
+
+        <div id="album-tracks"></div>
+    </div>
+    </div>
+
+    <div id="main-content">
+        <div id="building-track-list"><span><i class="material-icons">
+                all_inclusive
+                </i></span></div>
+        <div id="navigation-pane">
+            <span class="nav-item active" data-name="ALBUMS"><i class="material-icons">
+                    album
+                </i></span>
+            <span class="nav-item" data-name="TRACKS"><i class="material-icons">
+                    audiotrack
+                </i></span>
+        </div>
+        <div id="artist-list"></div>
+        <div id="tracks-list">
+            
+        </div>
+
+
+    </div>
+
+    <div id="now-playing" class="show" style="--data-img:url(../thumb/205)">
+        <span id="now-playing-image">
+
+            <span id="now-playing-button-inner">
+                <i class="material-icons">
+                    play_arrow
+                </i>
+            </span>
+
+        </span>
+
+
+        <div id="now-playing-controls">
+            <span id="go-prev"><i class="material-icons">
+                    skip_previous
+                </i></span>
+                <span id="go-next"><i class="material-icons">
+                        skip_next
+                    </i></span>
+                    
+            <span id="toggle-shuffle"><i class="material-icons">
+                    shuffle
+                </i></span>
+
+            <span id="toggle-repeat"><i class="material-icons">
+                    repeat
+                </i></span>
+
+            <span id="go-up"><i class="material-icons">
+                    queue_music
+                </i></span>
+
+        
+            <div id="nowplaying-track-name"></div>
+        </div>
+
+
+    </div>
+    <audio nocontrols></audio>
+    <script src="script/home-dec-03.js"></script>
+</body>
+
+</html>

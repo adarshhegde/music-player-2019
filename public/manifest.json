@@ -1,0 +1,25 @@
+{
+  "short_name": "Music",
+  "name": "Music",
+  "icons": [
+    {
+      "src": "/favicon128.png",
+      "type": "image/png",
+      "sizes": "128x128"
+    },
+    {
+        "src": "/favicon96.png",
+        "type": "image/png",
+        "sizes": "96x96"
+      },
+      {
+        "src": "/favicon512.png",
+        "type": "image/png",
+        "sizes": "512x512"
+      }
+  ],
+  "start_url": "/",
+  "background_color": "#000000",
+  "display": "standalone",
+  "theme_color": "#000000"
+}

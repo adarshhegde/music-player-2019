@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>Music</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="icon" href="favicon.png" type="image/x-icon" />
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+    <link rel="stylesheet" type="text/css" media="screen" href="css/main.css" />
+    <script>var preloaded = ${list};</script>
+   
+</head>
+<body>
+    
+    <div id="main-content">
+        <div id="wholepage-bg"></div>
+        <div id="navigation">
+            <span id="nav-bg" class="first"></span>
+            <div id="nav-item-wrapper">
+                <span class="nav-item" data-order="first" id="tracks">TRACKS</span>
+                <span class="nav-item" data-order="second" id="artists">ARTISTS</span>
+                <span class="nav-item" data-order="third" id="albums">ALBUMS</span>
+            </div>
+        </div>
+        <div id="player_area">
+            <span id="now_playing_title">No Time Like Now</span>
+            <div id="player_area_background_wrapper">
+                <span id="player_area_background"></span>
+            </div>
+            <span id="play-pause"><i class="material-icons">
+                    play_arrow
+                    </i></span>
+        </div>
+        <div id="playlist"></div>
+    </div>
+
+
+    <audio nocontrols></audio>
+    <script src="https://zeptojs.com/zepto.min.js"></script>
+    <script src="css/main.js"></script>
+</body>
+</html>

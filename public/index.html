@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html lang="en-US">
+
+<head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>Music</title>
+    <link rel="manifest" href="/manifest.json">
+    <link rel="icon" href="favicon.png" />
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="theme-color" content="#5c1675">
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Roboto+Condensed" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Oswald" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Nunito" rel="stylesheet">
+    <link rel="stylesheet" type="text/css" media="screen" href="css/home.css" />
+    <script src="script/lozad.min.js"></script>
+    <script src="script/jq.js"></script>
+</head>
+
+<body>
+    <div id="main-content" class="hide-bottom">
+        <style>div#loading{position:fixed;top:0;left:0;z-index:10;display:flex;align-items:center;justify-content:center;background: #000000c4;width:100%;height:100%;}#loading span{width:100px}</style>
+        <div id="loading">
+
+
+        </div>
+        <div id="top">
+            <div id="nav"></div>
+        </div>
+
+        <div id="side-overlay"></div>
+
+        <div id="side">
+            <div id="side-menu">
+                <span id="menu-button">
+                    <i class="material-icons">menu</i>
+                </span>
+                <div id="menu">
+                    <span data-target="mymusic" class="menu-item active">
+                        <i class="material-icons">music_note</i>
+                        <span class="menu-item-label">My Music</span>
+                    </span>
+
+                    <span data-target="equalizer" class="menu-item">
+                        <i class="material-icons">equalizer</i>
+                        <span class="menu-item-label">Equalizer</span>
+                    </span>
+
+                    
+                    <span data-target="settings" class="menu-item">
+                        <i class="material-icons">settings</i>
+                        <span class="menu-item-label">settings</span>
+                    </span>
+                </div>
+            </div>
+        </div>
+
+        <div id="middle">
+            <div id="views">
+            </div>
+        </div>
+
+        <div id="panels">
+            <div id="equalizer" data-id="equalizer" class="panel"><span class="panel-heading">Equalizer</span>
+                <div class="panel-content">
+                    <div id="equalizer_container">
+                        <input type="range" freq="5" min="-12" max="12" value="0" />
+                        <input type="range" freq="4" min="-12" max="12" value="0" />
+                        <input type="range" freq="3" min="-12" max="12" value="0" />
+                        <input type="range" freq="2" min="-12" max="12" value="0" />
+                        <input type="range" freq="1" min="-12" max="12" value="0" />
+                    </div>
+                </div>
+            </div>
+            <div id="settings" data-id="settings" class="panel"><span class="panel-heading">Settings</span>
+                <div class="panel-content">
+                        under dev
+                </div>
+            </div>
+        </div>
+        <div id="bottom">
+            <div id="controls">
+                <div id="track-title">if you see this, something went wrong</div>
+                <div id="track-artist">Rick Astley</div>
+                <div id="playback-controls">
+                    <div id="go-left"><i class="material-icons">skip_previous</i></div>
+                    <div id="play-pause"><i class="material-icons">play_arrow</i></div>
+                    <div id="go-right"><i class="material-icons">skip_next</i></div>
+                    <div id="extra-controls-toggle"><i class="material-icons">arrow_drop_up</i></div>
+                </div>
+                <div id="extra-controls">
+                    <div id="toggle-shuffle"><i class="material-icons">shuffle</i></div>
+                    <div id="toggle-repeat"><i class="material-icons">repeat</i></div>
+                    
+                </div>
+            </div>
+        </div>
+    </div>
+    <audio id="player" nocontrols></audio>
+</body>
+<script src="script/home.js"></script>
+
+</html>

@@ -1,0 +1,10 @@
+{
+    "watchchanges": [
+        "app.js",
+        "public/script/home.js",
+        "public/css/home.css",
+        "sync.json",
+        "modules/metadata.js",
+        "public/index.html"
+    ]
+}

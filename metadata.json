@@ -1,0 +1,917 @@
+{
+    "ILLENIUM, OEKIIN": {
+        "nodeType": "Artist",
+        "albums": {
+            "ASCEND": {
+                "tracks": {
+                    "b4468402f5b21030224203e6602ef7d6": {
+                        "nodeType": "Track",
+                        "has_albumart": true,
+                        "track_name": "All Together",
+                        "album_name": "ASCEND",
+                        "album_id": "20ca5e1817b0c1e796457cb570d4d928",
+                        "artist_id": "b6589bf246673fd6b68edfb57192dc22",
+                        "artist_name": "ILLENIUM, OEKIIN",
+                        "path": "music/All Together.mp3",
+                        "uid": "b4468402f5b21030224203e6602ef7d6",
+                        "track_duration": 238.68,
+                        "temp_imgdata": false,
+                        "track_index": 0,
+                        "track_pos": 1
+                    }
+                },
+                "track_count": 1,
+                "nodeType": "Album",
+                "has_albumart": true,
+                "albumart_index": 0,
+                "album_name": "ASCEND",
+                "artist_name": "ILLENIUM, OEKIIN",
+                "artist_id": "b6589bf246673fd6b68edfb57192dc22",
+                "album_id": "20ca5e1817b0c1e796457cb570d4d928"
+            }
+        },
+        "album_count": 1,
+        "artist_name": "ILLENIUM, OEKIIN",
+        "artist_id": "b6589bf246673fd6b68edfb57192dc22"
+    },
+    "ILLENIUM": {
+        "nodeType": "Artist",
+        "albums": {
+            "ASCEND": {
+                "tracks": {
+                    "1c4eb2cc5dfadff30485f2887df3fe01": {
+                        "nodeType": "Track",
+                        "has_albumart": true,
+                        "track_name": "Angel (Lonely Prelude)",
+                        "album_name": "ASCEND",
+                        "album_id": "674bd2b443dbd88e4a248e39c27405a9",
+                        "artist_id": "13ffb3b035786d38c728cf7a3354cef3",
+                        "artist_name": "ILLENIUM",
+                        "path": "music/Angel (Lonely Prelude).mp3",
+                        "uid": "1c4eb2cc5dfadff30485f2887df3fe01",
+                        "track_duration": 41.424,
+                        "temp_imgdata": false,
+                        "track_index": 1,
+                        "track_pos": 1
+                    },
+                    "03d6529d92b7d9fca3e1093c76bf3b16": {
+                        "nodeType": "Track",
+                        "has_albumart": true,
+                        "track_name": "I Care (Intro)",
+                        "album_name": "ASCEND",
+                        "album_id": "674bd2b443dbd88e4a248e39c27405a9",
+                        "artist_id": "13ffb3b035786d38c728cf7a3354cef3",
+                        "artist_name": "ILLENIUM",
+                        "path": "music/I Care (Intro).mp3",
+                        "uid": "03d6529d92b7d9fca3e1093c76bf3b16",
+                        "track_duration": 33.264,
+                        "temp_imgdata": false,
+                        "track_index": 12,
+                        "track_pos": 2
+                    }
+                },
+                "track_count": 2,
+                "nodeType": "Album",
+                "has_albumart": true,
+                "albumart_index": 12,
+                "album_name": "ASCEND",
+                "artist_name": "ILLENIUM",
+                "artist_id": "13ffb3b035786d38c728cf7a3354cef3",
+                "album_id": "674bd2b443dbd88e4a248e39c27405a9"
+            }
+        },
+        "album_count": 1,
+        "artist_name": "ILLENIUM",
+        "artist_id": "13ffb3b035786d38c728cf7a3354cef3"
+    },
+    "Avicii": {
+        "nodeType": "Artist",
+        "albums": {
+            "Unknown Album": {
+                "tracks": {
+                    "ecd7ea31c7a1a8fec2d660a794e60d25": {
+                        "nodeType": "Track",
+                        "has_albumart": true,
+                        "track_name": "Without You (Merk & Kremont Remix)",
+                        "album_name": "Unknown Album",
+                        "album_id": "7c6ceead817932700c177ba6d8ec04b5",
+                        "artist_id": "492858f336018192afde7b41bf8d4d1d",
+                        "artist_name": "Avicii",
+                        "path": "music/Avicii - Without You (Red Comet & Caslow Remix).mp3",
+                        "uid": "ecd7ea31c7a1a8fec2d660a794e60d25",
+                        "track_duration": 204.096,
+                        "temp_imgdata": false,
+                        "track_index": 2,
+                        "track_pos": 1
+                    }
+                },
+                "track_count": 1,
+                "nodeType": "Album",
+                "has_albumart": true,
+                "albumart_index": 2,
+                "album_name": "Unknown Album",
+                "artist_name": "Avicii",
+                "artist_id": "492858f336018192afde7b41bf8d4d1d",
+                "album_id": "7c6ceead817932700c177ba6d8ec04b5"
+            }
+        },
+        "album_count": 1,
+        "artist_name": "Avicii",
+        "artist_id": "492858f336018192afde7b41bf8d4d1d"
+    },
+    "ILLENIUM, Anna Clendening": {
+        "nodeType": "Artist",
+        "albums": {
+            "ASCEND": {
+                "tracks": {
+                    "5b71971cbab7c1948c0b4795fc61f173": {
+                        "nodeType": "Track",
+                        "has_albumart": true,
+                        "track_name": "Broken Ones",
+                        "album_name": "ASCEND",
+                        "album_id": "7f7c1c780f082f5cbd419e3e9e8c2a3f",
+                        "artist_id": "1a6b48359373d91998e12378e65253d8",
+                        "artist_name": "ILLENIUM, Anna Clendening",
+                        "path": "music/Broken Ones.mp3",
+                        "uid": "5b71971cbab7c1948c0b4795fc61f173",
+                        "track_duration": 198.36,
+                        "temp_imgdata": false,
+                        "track_index": 3,
+                        "track_pos": 1
+                    }
+                },
+                "track_count": 1,
+                "nodeType": "Album",
+                "has_albumart": true,
+                "albumart_index": 3,
+                "album_name": "ASCEND",
+                "artist_name": "ILLENIUM, Anna Clendening",
+                "artist_id": "1a6b48359373d91998e12378e65253d8",
+                "album_id": "7f7c1c780f082f5cbd419e3e9e8c2a3f"
+            }
+        },
+        "album_count": 1,
+        "artist_name": "ILLENIUM, Anna Clendening",
+        "artist_id": "1a6b48359373d91998e12378e65253d8"
+    },
+    "ILLENIUM, Echos": {
+        "nodeType": "Artist",
+        "albums": {
+            "ASCEND": {
+                "tracks": {
+                    "c3ac84dc4f7ae1831236322996319b8e": {
+                        "nodeType": "Track",
+                        "has_albumart": true,
+                        "track_name": "Every Piece Of Me",
+                        "album_name": "ASCEND",
+                        "album_id": "05e65f798f5f1a9170ff7a232319fadd",
+                        "artist_id": "fedccd11534e45630de7650e484dc4db",
+                        "artist_name": "ILLENIUM, Echos",
+                        "path": "music/Every Piece Of Me.mp3",
+                        "uid": "c3ac84dc4f7ae1831236322996319b8e",
+                        "track_duration": 223.536,
+                        "temp_imgdata": false,
+                        "track_index": 4,
+                        "track_pos": 1
+                    }
+                },
+                "track_count": 1,
+                "nodeType": "Album",
+                "has_albumart": true,
+                "albumart_index": 4,
+                "album_name": "ASCEND",
+                "artist_name": "ILLENIUM, Echos",
+                "artist_id": "fedccd11534e45630de7650e484dc4db",
+                "album_id": "05e65f798f5f1a9170ff7a232319fadd"
+            }
+        },
+        "album_count": 1,
+        "artist_name": "ILLENIUM, Echos",
+        "artist_id": "fedccd11534e45630de7650e484dc4db"
+    },
+    "ILLENIUM, Blanke, Bipolar Sunshine": {
+        "nodeType": "Artist",
+        "albums": {
+            "ASCEND": {
+                "tracks": {
+                    "950a6d9ad3823ac77cf05225cb2d5ed7": {
+                        "nodeType": "Track",
+                        "has_albumart": true,
+                        "track_name": "Gorgeous",
+                        "album_name": "ASCEND",
+                        "album_id": "cb714041fd820bd0d3167e4806dd7403",
+                        "artist_id": "fb9fe1d6dbb5b11a737f46e0a994a36b",
+                        "artist_name": "ILLENIUM, Blanke, Bipolar Sunshine",
+                        "path": "music/Gorgeous.mp3",
+                        "uid": "950a6d9ad3823ac77cf05225cb2d5ed7",
+                        "track_duration": 277.464,
+                        "temp_imgdata": false,
+                        "track_index": 5,
+                        "track_pos": 1
+                    }
+                },
+                "track_count": 1,
+                "nodeType": "Album",
+                "has_albumart": true,
+                "albumart_index": 5,
+                "album_name": "ASCEND",
+                "artist_name": "ILLENIUM, Blanke, Bipolar Sunshine",
+                "artist_id": "fb9fe1d6dbb5b11a737f46e0a994a36b",
+                "album_id": "cb714041fd820bd0d3167e4806dd7403"
+            }
+        },
+        "album_count": 1,
+        "artist_name": "ILLENIUM, Blanke, Bipolar Sunshine",
+        "artist_id": "fb9fe1d6dbb5b11a737f46e0a994a36b"
+    },
+    "Gryffin": {
+        "nodeType": "Artist",
+        "albums": {
+            "Unknown Album": {
+                "tracks": {
+                    "32fa22d93d7f2846dfc9bcb3cdc26b2f": {
+                        "nodeType": "Track",
+                        "has_albumart": true,
+                        "track_name": "Just For A Moment",
+                        "album_name": "Unknown Album",
+                        "album_id": "9b5e5f3d5aa18f04ac0d245784a90061",
+                        "artist_id": "e93b581ee989e6dd96733048dd6f7c51",
+                        "artist_name": "Gryffin",
+                        "path": "music/Gryffin - Just For A Moment ft. Iselin.mp3",
+                        "uid": "32fa22d93d7f2846dfc9bcb3cdc26b2f",
+                        "track_duration": 250.752,
+                        "temp_imgdata": false,
+                        "track_index": 6,
+                        "track_pos": 1
+                    }
+                },
+                "track_count": 1,
+                "nodeType": "Album",
+                "has_albumart": true,
+                "albumart_index": 6,
+                "album_name": "Unknown Album",
+                "artist_name": "Gryffin",
+                "artist_id": "e93b581ee989e6dd96733048dd6f7c51",
+                "album_id": "9b5e5f3d5aa18f04ac0d245784a90061"
+            }
+        },
+        "album_count": 1,
+        "artist_name": "Gryffin",
+        "artist_id": "e93b581ee989e6dd96733048dd6f7c51"
+    },
+    "Gryffin, Slander": {
+        "nodeType": "Artist",
+        "albums": {
+            "Unknown Album": {
+                "tracks": {
+                    "d158e0e47ce64c93e6069a0a1497ccf4": {
+                        "nodeType": "Track",
+                        "has_albumart": true,
+                        "track_name": "All You Need To Know",
+                        "album_name": "Unknown Album",
+                        "album_id": "52f3056512f53634898a4aeaa461141b",
+                        "artist_id": "caee6ecf8a38f964f244590547dd75f3",
+                        "artist_name": "Gryffin, Slander",
+                        "path": "music/Gryffin, Slander - All You Need To Know (Audio) ft. Calle Lehmann.mp3",
+                        "uid": "d158e0e47ce64c93e6069a0a1497ccf4",
+                        "track_duration": 239.712,
+                        "temp_imgdata": false,
+                        "track_index": 7,
+                        "track_pos": 1
+                    }
+                },
+                "track_count": 1,
+                "nodeType": "Album",
+                "has_albumart": true,
+                "albumart_index": 7,
+                "album_name": "Unknown Album",
+                "artist_name": "Gryffin, Slander",
+                "artist_id": "caee6ecf8a38f964f244590547dd75f3",
+                "album_id": "52f3056512f53634898a4aeaa461141b"
+            }
+        },
+        "album_count": 1,
+        "artist_name": "Gryffin, Slander",
+        "artist_id": "caee6ecf8a38f964f244590547dd75f3"
+    },
+    "Hans Zimmer": {
+        "nodeType": "Artist",
+        "albums": {
+            "Ben Walter": {
+                "tracks": {
+                    "66a673babbbb389175697247afeef1df": {
+                        "nodeType": "Track",
+                        "has_albumart": true,
+                        "track_name": "Time",
+                        "album_name": "Ben Walter",
+                        "album_id": "25041dd6a653b3e2ed09d9b5ce885041",
+                        "artist_id": "fe3897bd6dea8cb3dd56a383c653c332",
+                        "artist_name": "Hans Zimmer",
+                        "path": "music/Hans Zimmer - Time (Ben Walter Remix).mp3",
+                        "uid": "66a673babbbb389175697247afeef1df",
+                        "track_duration": 332.688,
+                        "temp_imgdata": false,
+                        "track_index": 8,
+                        "track_pos": 1
+                    }
+                },
+                "track_count": 1,
+                "nodeType": "Album",
+                "has_albumart": true,
+                "albumart_index": 8,
+                "album_name": "Ben Walter",
+                "artist_name": "Hans Zimmer",
+                "artist_id": "fe3897bd6dea8cb3dd56a383c653c332",
+                "album_id": "25041dd6a653b3e2ed09d9b5ce885041"
+            }
+        },
+        "album_count": 1,
+        "artist_name": "Hans Zimmer",
+        "artist_id": "fe3897bd6dea8cb3dd56a383c653c332"
+    },
+    "Hoang, Nevve": {
+        "nodeType": "Artist",
+        "albums": {
+            "Unknown Album": {
+                "tracks": {
+                    "7cefff88f04d86f4d5e68f9fccdc409f": {
+                        "nodeType": "Track",
+                        "has_albumart": true,
+                        "track_name": "Don't Say (feat. Nevve)",
+                        "album_name": "Unknown Album",
+                        "album_id": "47b2c6d435f4e103cf329ff7d8856b95",
+                        "artist_id": "492f7db70edef3ba5cd4ec908f6e2619",
+                        "artist_name": "Hoang, Nevve",
+                        "path": "music/Hoang - Don't Say (Official Lyric Video) ft. Nevve.mp3",
+                        "uid": "7cefff88f04d86f4d5e68f9fccdc409f",
+                        "track_duration": 183.816,
+                        "temp_imgdata": false,
+                        "track_index": 9,
+                        "track_pos": 1
+                    }
+                },
+                "track_count": 1,
+                "nodeType": "Album",
+                "has_albumart": true,
+                "albumart_index": 9,
+                "album_name": "Unknown Album",
+                "artist_name": "Hoang, Nevve",
+                "artist_id": "492f7db70edef3ba5cd4ec908f6e2619",
+                "album_id": "47b2c6d435f4e103cf329ff7d8856b95"
+            }
+        },
+        "album_count": 1,
+        "artist_name": "Hoang, Nevve",
+        "artist_id": "492f7db70edef3ba5cd4ec908f6e2619"
+    },
+    "Hoang": {
+        "nodeType": "Artist",
+        "albums": {
+            "Unknown Album": {
+                "tracks": {
+                    "e2758a3de0696b87c6be776ae6f26684": {
+                        "nodeType": "Track",
+                        "has_albumart": true,
+                        "track_name": "Gone (feat. Kianna)",
+                        "album_name": "Unknown Album",
+                        "album_id": "8d3df9e4197c3169ce08616e92f44bf1",
+                        "artist_id": "5ca35f925a8fb53464c16c2beddb6b1f",
+                        "artist_name": "Hoang",
+                        "path": "music/Hoang - Gone (Official Lyric Video) ft. Kianna.mp3",
+                        "uid": "e2758a3de0696b87c6be776ae6f26684",
+                        "track_duration": 172.968,
+                        "temp_imgdata": false,
+                        "track_index": 10,
+                        "track_pos": 1
+                    }
+                },
+                "track_count": 1,
+                "nodeType": "Album",
+                "has_albumart": true,
+                "albumart_index": 10,
+                "album_name": "Unknown Album",
+                "artist_name": "Hoang",
+                "artist_id": "5ca35f925a8fb53464c16c2beddb6b1f",
+                "album_id": "8d3df9e4197c3169ce08616e92f44bf1"
+            }
+        },
+        "album_count": 1,
+        "artist_name": "Hoang",
+        "artist_id": "5ca35f925a8fb53464c16c2beddb6b1f"
+    },
+    "ILLENIUM, Georgia Ku": {
+        "nodeType": "Artist",
+        "albums": {
+            "ASCEND": {
+                "tracks": {
+                    "5187215be11a121df6b4a6b216290771": {
+                        "nodeType": "Track",
+                        "has_albumart": true,
+                        "track_name": "Hold On",
+                        "album_name": "ASCEND",
+                        "album_id": "3a6fc2bd88b33d92dea6c740d6e80626",
+                        "artist_id": "3d1eed1318cd3c5ff2cba6a5b5dc1aa8",
+                        "artist_name": "ILLENIUM, Georgia Ku",
+                        "path": "music/Hold On.mp3",
+                        "uid": "5187215be11a121df6b4a6b216290771",
+                        "track_duration": 235.344,
+                        "temp_imgdata": false,
+                        "track_index": 11,
+                        "track_pos": 1
+                    }
+                },
+                "track_count": 1,
+                "nodeType": "Album",
+                "has_albumart": true,
+                "albumart_index": 11,
+                "album_name": "ASCEND",
+                "artist_name": "ILLENIUM, Georgia Ku",
+                "artist_id": "3d1eed1318cd3c5ff2cba6a5b5dc1aa8",
+                "album_id": "3a6fc2bd88b33d92dea6c740d6e80626"
+            }
+        },
+        "album_count": 1,
+        "artist_name": "ILLENIUM, Georgia Ku",
+        "artist_id": "3d1eed1318cd3c5ff2cba6a5b5dc1aa8"
+    },
+    "Illenium": {
+        "nodeType": "Artist",
+        "albums": {
+            "ASCEND": {
+                "tracks": {
+                    "be200926f11ce314127df88d8cacadda": {
+                        "nodeType": "Track",
+                        "has_albumart": true,
+                        "track_name": "Take You Down",
+                        "album_name": "ASCEND",
+                        "album_id": "f760164975fb887f4689218e278b8414",
+                        "artist_id": "05f252d2ce837922dd5fcdb919ba8c0f",
+                        "artist_name": "Illenium",
+                        "path": "music/ILLENIUM - 'Take You Down.mp3",
+                        "uid": "be200926f11ce314127df88d8cacadda",
+                        "track_duration": 221.352,
+                        "temp_imgdata": false,
+                        "track_index": 13,
+                        "track_pos": 1
+                    },
+                    "48203288ab1fc1fe4007aa8382039ccd": {
+                        "nodeType": "Track",
+                        "has_albumart": true,
+                        "track_name": "Crashing (Stripped)",
+                        "album_name": "ASCEND",
+                        "album_id": "f760164975fb887f4689218e278b8414",
+                        "artist_id": "05f252d2ce837922dd5fcdb919ba8c0f",
+                        "artist_name": "Illenium",
+                        "path": "music/ILLENIUM - Crashing ft. Bahari.mp3",
+                        "uid": "48203288ab1fc1fe4007aa8382039ccd",
+                        "track_duration": 231.648,
+                        "temp_imgdata": false,
+                        "track_index": 14,
+                        "track_pos": 2
+                    },
+                    "a6c1fb1cea767568c409d819623385bd": {
+                        "nodeType": "Track",
+                        "has_albumart": true,
+                        "track_name": "Pray",
+                        "album_name": "ASCEND",
+                        "album_id": "f760164975fb887f4689218e278b8414",
+                        "artist_id": "05f252d2ce837922dd5fcdb919ba8c0f",
+                        "artist_name": "Illenium",
+                        "path": "music/ILLENIUM - Pray ft. Kameron Alexander.mp3",
+                        "uid": "a6c1fb1cea767568c409d819623385bd",
+                        "track_duration": 297.84,
+                        "temp_imgdata": false,
+                        "track_index": 15,
+                        "track_pos": 3
+                    }
+                },
+                "track_count": 3,
+                "nodeType": "Album",
+                "has_albumart": true,
+                "albumart_index": 15,
+                "album_name": "ASCEND",
+                "artist_name": "Illenium",
+                "artist_id": "05f252d2ce837922dd5fcdb919ba8c0f",
+                "album_id": "f760164975fb887f4689218e278b8414"
+            }
+        },
+        "album_count": 1,
+        "artist_name": "Illenium",
+        "artist_id": "05f252d2ce837922dd5fcdb919ba8c0f"
+    },
+    "ILLENIUM, Foy Vance": {
+        "nodeType": "Artist",
+        "albums": {
+            "ASCEND": {
+                "tracks": {
+                    "d64b2992e6c9a6d3c4a48c661e65fa7f": {
+                        "nodeType": "Track",
+                        "has_albumart": true,
+                        "track_name": "Blood",
+                        "album_name": "ASCEND",
+                        "album_id": "3b16895004a1588a0ce03441d0feb8ec",
+                        "artist_id": "e6dcf90b9a2c56a0590269c49d7edb3a",
+                        "artist_name": "ILLENIUM, Foy Vance",
+                        "path": "music/ILLENIUM, Foy Vance - Blood.mp3",
+                        "uid": "d64b2992e6c9a6d3c4a48c661e65fa7f",
+                        "track_duration": 247.968,
+                        "temp_imgdata": false,
+                        "track_index": 16,
+                        "track_pos": 1
+                    }
+                },
+                "track_count": 1,
+                "nodeType": "Album",
+                "has_albumart": true,
+                "albumart_index": 16,
+                "album_name": "ASCEND",
+                "artist_name": "ILLENIUM, Foy Vance",
+                "artist_id": "e6dcf90b9a2c56a0590269c49d7edb3a",
+                "album_id": "3b16895004a1588a0ce03441d0feb8ec"
+            }
+        },
+        "album_count": 1,
+        "artist_name": "ILLENIUM, Foy Vance",
+        "artist_id": "e6dcf90b9a2c56a0590269c49d7edb3a"
+    },
+    "ILLENIUM, Jon Bellion": {
+        "nodeType": "Artist",
+        "albums": {
+            "ASCEND": {
+                "tracks": {
+                    "dd3d980f38d665a8105e5dfd04e0c803": {
+                        "nodeType": "Track",
+                        "has_albumart": true,
+                        "track_name": "Good Things Fall Apart (Radio Edit)",
+                        "album_name": "ASCEND",
+                        "album_id": "62b047ab20da2f4724f8b09ca063b052",
+                        "artist_id": "126352caef8cbb0e7342d29391ad4601",
+                        "artist_name": "ILLENIUM, Jon Bellion",
+                        "path": "music/ILLENIUM, Jon Bellion - Good Things Fall Apart.mp3",
+                        "uid": "dd3d980f38d665a8105e5dfd04e0c803",
+                        "track_duration": 239.28,
+                        "temp_imgdata": false,
+                        "track_index": 17,
+                        "track_pos": 1
+                    }
+                },
+                "track_count": 1,
+                "nodeType": "Album",
+                "has_albumart": true,
+                "albumart_index": 17,
+                "album_name": "ASCEND",
+                "artist_name": "ILLENIUM, Jon Bellion",
+                "artist_id": "126352caef8cbb0e7342d29391ad4601",
+                "album_id": "62b047ab20da2f4724f8b09ca063b052"
+            }
+        },
+        "album_count": 1,
+        "artist_name": "ILLENIUM, Jon Bellion",
+        "artist_id": "126352caef8cbb0e7342d29391ad4601"
+    },
+    "ILLENIUM, Said The Sky, Annika Wells": {
+        "nodeType": "Artist",
+        "albums": {
+            "ASCEND": {
+                "tracks": {
+                    "bdaf5eda427e01129b152e89a2557ce2": {
+                        "nodeType": "Track",
+                        "has_albumart": true,
+                        "track_name": "Sad Songs",
+                        "album_name": "ASCEND",
+                        "album_id": "24a8bd7b0d312091a5b4e79b0d1c95e2",
+                        "artist_id": "edc88943ad17732af492a28b2738817b",
+                        "artist_name": "ILLENIUM, Said The Sky, Annika Wells",
+                        "path": "music/Illenium & Said The Sky ft. Annika Wells - Sad Songs (Red Comet Flip).mp3",
+                        "uid": "bdaf5eda427e01129b152e89a2557ce2",
+                        "track_duration": 220.056,
+                        "temp_imgdata": false,
+                        "track_index": 18,
+                        "track_pos": 1
+                    },
+                    "e4b3fc588adba11835883393c1648b57": {
+                        "nodeType": "Track",
+                        "has_albumart": true,
+                        "track_name": "Sad Songs",
+                        "album_name": "ASCEND",
+                        "album_id": "24a8bd7b0d312091a5b4e79b0d1c95e2",
+                        "artist_id": "edc88943ad17732af492a28b2738817b",
+                        "artist_name": "ILLENIUM, Said The Sky, Annika Wells",
+                        "path": "music/Sad Songs.mp3",
+                        "uid": "e4b3fc588adba11835883393c1648b57",
+                        "track_duration": 210.48,
+                        "temp_imgdata": false,
+                        "track_index": 22,
+                        "track_pos": 2
+                    }
+                },
+                "track_count": 2,
+                "nodeType": "Album",
+                "has_albumart": true,
+                "albumart_index": 22,
+                "album_name": "ASCEND",
+                "artist_name": "ILLENIUM, Said The Sky, Annika Wells",
+                "artist_id": "edc88943ad17732af492a28b2738817b",
+                "album_id": "24a8bd7b0d312091a5b4e79b0d1c95e2"
+            }
+        },
+        "album_count": 1,
+        "artist_name": "ILLENIUM, Said The Sky, Annika Wells",
+        "artist_id": "edc88943ad17732af492a28b2738817b"
+    },
+    "ILLENIUM, X Ambassadors": {
+        "nodeType": "Artist",
+        "albums": {
+            "ASCEND": {
+                "tracks": {
+                    "b1627c51321263aec2f81cf627050cfb": {
+                        "nodeType": "Track",
+                        "has_albumart": true,
+                        "track_name": "In Your Arms",
+                        "album_name": "ASCEND",
+                        "album_id": "22d4d513e71883671150e074c781e681",
+                        "artist_id": "9a477933490770e507f5a3246245c379",
+                        "artist_name": "ILLENIUM, X Ambassadors",
+                        "path": "music/In Your Arms.mp3",
+                        "uid": "b1627c51321263aec2f81cf627050cfb",
+                        "track_duration": 220.824,
+                        "temp_imgdata": false,
+                        "track_index": 19,
+                        "track_pos": 1
+                    }
+                },
+                "track_count": 1,
+                "nodeType": "Album",
+                "has_albumart": true,
+                "albumart_index": 19,
+                "album_name": "ASCEND",
+                "artist_name": "ILLENIUM, X Ambassadors",
+                "artist_id": "9a477933490770e507f5a3246245c379",
+                "album_id": "22d4d513e71883671150e074c781e681"
+            }
+        },
+        "album_count": 1,
+        "artist_name": "ILLENIUM, X Ambassadors",
+        "artist_id": "9a477933490770e507f5a3246245c379"
+    },
+    "ILLENIUM, Chandler Leighton": {
+        "nodeType": "Artist",
+        "albums": {
+            "ASCEND": {
+                "tracks": {
+                    "449d60b6cb4445ad28656187df5b0a63": {
+                        "nodeType": "Track",
+                        "has_albumart": true,
+                        "track_name": "Lonely",
+                        "album_name": "ASCEND",
+                        "album_id": "47f7700b55a0982baae4262847bb5379",
+                        "artist_id": "04064a7098f34983c5fa89ab5361a88a",
+                        "artist_name": "ILLENIUM, Chandler Leighton",
+                        "path": "music/Lonely.mp3",
+                        "uid": "449d60b6cb4445ad28656187df5b0a63",
+                        "track_duration": 271.08,
+                        "temp_imgdata": false,
+                        "track_index": 20,
+                        "track_pos": 1
+                    }
+                },
+                "track_count": 1,
+                "nodeType": "Album",
+                "has_albumart": true,
+                "albumart_index": 20,
+                "album_name": "ASCEND",
+                "artist_name": "ILLENIUM, Chandler Leighton",
+                "artist_id": "04064a7098f34983c5fa89ab5361a88a",
+                "album_id": "47f7700b55a0982baae4262847bb5379"
+            }
+        },
+        "album_count": 1,
+        "artist_name": "ILLENIUM, Chandler Leighton",
+        "artist_id": "04064a7098f34983c5fa89ab5361a88a"
+    },
+    "Slander, Dylan Matthew": {
+        "nodeType": "Artist",
+        "albums": {
+            "Love is Gone": {
+                "tracks": {
+                    "1d4948a7dbb31ca78df8eef2d0da1141": {
+                        "nodeType": "Track",
+                        "has_albumart": true,
+                        "track_name": "Love Is Gone (feat. Dylan Matthew)",
+                        "album_name": "Love is Gone",
+                        "album_id": "0bb9c18a870d2c84d720b2a2947d0275",
+                        "artist_id": "26a850c1398b6cef325aee4e013ebde1",
+                        "artist_name": "Slander, Dylan Matthew",
+                        "path": "music/SLANDER - Love is Gone (Lyrics) feat. Dylan Matthew.mp3",
+                        "uid": "1d4948a7dbb31ca78df8eef2d0da1141",
+                        "track_duration": 251.16,
+                        "temp_imgdata": false,
+                        "track_index": 21,
+                        "track_pos": 1
+                    }
+                },
+                "track_count": 1,
+                "nodeType": "Album",
+                "has_albumart": true,
+                "albumart_index": 21,
+                "album_name": "Love is Gone",
+                "artist_name": "Slander, Dylan Matthew",
+                "artist_id": "26a850c1398b6cef325aee4e013ebde1",
+                "album_id": "0bb9c18a870d2c84d720b2a2947d0275"
+            }
+        },
+        "album_count": 1,
+        "artist_name": "Slander, Dylan Matthew",
+        "artist_id": "26a850c1398b6cef325aee4e013ebde1"
+    },
+    "Seven Lions, Slander, & Dabin": {
+        "nodeType": "Artist",
+        "albums": {
+            "First Time": {
+                "tracks": {
+                    "95f70de70a5f78236466428eea1de3d8": {
+                        "nodeType": "Track",
+                        "has_albumart": true,
+                        "track_name": "First Time (feat. Dylan Matthew)",
+                        "album_name": "First Time",
+                        "album_id": "3f0d24cbb62f7e3c5d43ad3fb5df714a",
+                        "artist_id": "71a06ede47b8af28495dacd5c89297e8",
+                        "artist_name": "Seven Lions, Slander, & Dabin",
+                        "path": "music/Seven Lions, SLANDER & Dabin - First Time (GhostDragon Remix) [feat. Dylan Matthew].mp3",
+                        "uid": "95f70de70a5f78236466428eea1de3d8",
+                        "track_duration": 291.36979591836734,
+                        "temp_imgdata": false,
+                        "track_index": 23,
+                        "track_pos": 1
+                    }
+                },
+                "track_count": 1,
+                "nodeType": "Album",
+                "has_albumart": true,
+                "albumart_index": 23,
+                "album_name": "First Time",
+                "artist_name": "Seven Lions, Slander, & Dabin",
+                "artist_id": "71a06ede47b8af28495dacd5c89297e8",
+                "album_id": "3f0d24cbb62f7e3c5d43ad3fb5df714a"
+            }
+        },
+        "album_count": 1,
+        "artist_name": "Seven Lions, Slander, & Dabin",
+        "artist_id": "71a06ede47b8af28495dacd5c89297e8"
+    },
+    "ILLENIUM, GOLDN": {
+        "nodeType": "Artist",
+        "albums": {
+            "ASCEND": {
+                "tracks": {
+                    "1046b80eddb603c5a910fb51818ff581": {
+                        "nodeType": "Track",
+                        "has_albumart": true,
+                        "track_name": "That’s Why",
+                        "album_name": "ASCEND",
+                        "album_id": "0bc46f1cf3dc1b035e66bdb3d2db9380",
+                        "artist_id": "aa6ef29624b38babc0b2d30341dc7c30",
+                        "artist_name": "ILLENIUM, GOLDN",
+                        "path": "music/That’s Why.mp3",
+                        "uid": "1046b80eddb603c5a910fb51818ff581",
+                        "track_duration": 253.008,
+                        "temp_imgdata": false,
+                        "track_index": 24,
+                        "track_pos": 1
+                    }
+                },
+                "track_count": 1,
+                "nodeType": "Album",
+                "has_albumart": true,
+                "albumart_index": 24,
+                "album_name": "ASCEND",
+                "artist_name": "ILLENIUM, GOLDN",
+                "artist_id": "aa6ef29624b38babc0b2d30341dc7c30",
+                "album_id": "0bc46f1cf3dc1b035e66bdb3d2db9380"
+            }
+        },
+        "album_count": 1,
+        "artist_name": "ILLENIUM, GOLDN",
+        "artist_id": "aa6ef29624b38babc0b2d30341dc7c30"
+    },
+    "The Chainsmokers, Illenium": {
+        "nodeType": "Artist",
+        "albums": {
+            "Unknown Album": {
+                "tracks": {
+                    "0e4b079ef60d6984d4d65fdef4be32f5": {
+                        "nodeType": "Track",
+                        "has_albumart": true,
+                        "track_name": "Takeaway",
+                        "album_name": "Unknown Album",
+                        "album_id": "2d3649ff16e899840e5c73ec9c79a873",
+                        "artist_id": "f0825480c2f5543c8be86300c36cc98a",
+                        "artist_name": "The Chainsmokers, Illenium",
+                        "path": "music/The Chainsmokers & ILLENIUM - Takeaway (RetroVision Remix) [feat. Lennon Stella].mp3",
+                        "uid": "0e4b079ef60d6984d4d65fdef4be32f5",
+                        "track_duration": 198.6,
+                        "temp_imgdata": false,
+                        "track_index": 25,
+                        "track_pos": 1
+                    },
+                    "5702e283277eda8f0d0e8997ee9f1198": {
+                        "nodeType": "Track",
+                        "has_albumart": true,
+                        "track_name": "Takeaway",
+                        "album_name": "Unknown Album",
+                        "album_id": "2d3649ff16e899840e5c73ec9c79a873",
+                        "artist_id": "f0825480c2f5543c8be86300c36cc98a",
+                        "artist_name": "The Chainsmokers, Illenium",
+                        "path": "music/The Chainsmokers, ILLENIUM - Takeaway (Official Video) ft. Lennon Stella-lzkKzZmRZk8.mp3",
+                        "uid": "5702e283277eda8f0d0e8997ee9f1198",
+                        "track_duration": 228.6,
+                        "temp_imgdata": false,
+                        "track_index": 26,
+                        "track_pos": 2
+                    }
+                },
+                "track_count": 2,
+                "nodeType": "Album",
+                "has_albumart": true,
+                "albumart_index": 26,
+                "album_name": "Unknown Album",
+                "artist_name": "The Chainsmokers, Illenium",
+                "artist_id": "f0825480c2f5543c8be86300c36cc98a",
+                "album_id": "2d3649ff16e899840e5c73ec9c79a873"
+            }
+        },
+        "album_count": 1,
+        "artist_name": "The Chainsmokers, Illenium",
+        "artist_id": "f0825480c2f5543c8be86300c36cc98a"
+    },
+    "TroyBoi, Nefera": {
+        "nodeType": "Artist",
+        "albums": {
+            "single": {
+                "tracks": {
+                    "14fde33964cd3da68030afe47d84c415": {
+                        "nodeType": "Track",
+                        "has_albumart": true,
+                        "track_name": "TroyBoi - On My Own (feat. Nefera)",
+                        "album_name": "single",
+                        "album_id": "783fc2a885cf74183a543b9c19deb7d9",
+                        "artist_id": "82480c2c49b4d11e4ab629505dd119a1",
+                        "artist_name": "TroyBoi, Nefera",
+                        "path": "music/TroyBoi - On My Own (feat. Nefera).mp3",
+                        "uid": "14fde33964cd3da68030afe47d84c415",
+                        "track_duration": 233.448,
+                        "temp_imgdata": false,
+                        "track_index": 27,
+                        "track_pos": 1
+                    }
+                },
+                "track_count": 1,
+                "nodeType": "Album",
+                "has_albumart": true,
+                "albumart_index": 27,
+                "album_name": "single",
+                "artist_name": "TroyBoi, Nefera",
+                "artist_id": "82480c2c49b4d11e4ab629505dd119a1",
+                "album_id": "783fc2a885cf74183a543b9c19deb7d9"
+            }
+        },
+        "album_count": 1,
+        "artist_name": "TroyBoi, Nefera",
+        "artist_id": "82480c2c49b4d11e4ab629505dd119a1"
+    },
+    "William Black, Runn": {
+        "nodeType": "Artist",
+        "albums": {
+            "single": {
+                "tracks": {
+                    "0206f58114c1407011593d99be98b200": {
+                        "nodeType": "Track",
+                        "has_albumart": true,
+                        "track_name": "William Black - Back Together ft. Runn",
+                        "album_name": "single",
+                        "album_id": "23b081f9599aac16a839bb1c18ad2818",
+                        "artist_id": "25de88b3b6c9a86f2ddc186b2c889638",
+                        "artist_name": "William Black, Runn",
+                        "path": "music/William Black - Back Together (Lyrics) ft. Runn.mp3",
+                        "uid": "0206f58114c1407011593d99be98b200",
+                        "track_duration": 210.048,
+                        "temp_imgdata": false,
+                        "track_index": 28,
+                        "track_pos": 1
+                    }
+                },
+                "track_count": 1,
+                "nodeType": "Album",
+                "has_albumart": true,
+                "albumart_index": 28,
+                "album_name": "single",
+                "artist_name": "William Black, Runn",
+                "artist_id": "25de88b3b6c9a86f2ddc186b2c889638",
+                "album_id": "23b081f9599aac16a839bb1c18ad2818"
+            }
+        },
+        "album_count": 1,
+        "artist_name": "William Black, Runn",
+        "artist_id": "25de88b3b6c9a86f2ddc186b2c889638"
+    }
+}

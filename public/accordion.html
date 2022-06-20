@@ -1,0 +1,92 @@
+<html>
+<head>
+    <title>Kek</title>
+    <link href="https://fonts.googleapis.com/css?family=Lato" rel="stylesheet">
+    <link rel="stylesheet" href="accordion.css">
+    <script src="https://code.jquery.com/jquery-3.3.1.min.js"></script>
+    <body>
+        
+        <div id="accordion">
+
+            <div class="accordion-item">
+
+                <div class="accordion-item-front">
+                    Home
+                </div>
+                <div class="accoridon-item-body">
+                    <div class="accordion-item-child">
+                        Recent Activity
+                    </div>
+                    <div class="accordion-item-child">
+                        User Changelog
+                    </div>
+                    <div class="accordion-item-child">
+                        Something
+                    </div>
+                </div>
+
+            </div>
+
+            <div class="accordion-item">
+
+                <div class="accordion-item-front">
+                    Traffic
+                </div>
+                <div class="accoridon-item-body">
+                    <div class="accordion-item-child">
+                        User Activity
+                    </div>
+                    <div class="accordion-item-child">
+                        Site Traffic
+                    </div>
+                    <div class="accordion-item-child">
+                        Google Analytics 
+                    </div>
+                </div>
+
+            </div>
+
+            <div class="accordion-item">
+
+                <div class="accordion-item-front">
+                    Database
+                </div>
+                <div class="accoridon-item-body">
+                    <div class="accordion-item-child">
+                        MongoDB
+                    </div>
+                    <div class="accordion-item-child">
+                        levelDB
+                    </div>
+                    <div class="accordion-item-child">
+                        PHPMyAdmin
+                    </div>
+                </div>
+
+            </div>
+
+        </div>
+
+        <script>
+        
+            $(document).ready( 
+                () => {
+                    $(".accordion-item").click(
+                        function () {
+                            let that = this;
+                            if($(that).hasClass("open")) {
+                              $(".accordion-item").removeClass('open');
+                              return;  
+                            }
+                             $(".accordion-item").removeClass('open');
+                             setTimeout(() => { $(that).addClass("open");  },350);
+                            
+                        }
+                    )
+                }
+            );
+
+        </script>
+    </body>
+</head>
+</html>

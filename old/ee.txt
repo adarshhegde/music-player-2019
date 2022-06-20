@@ -1,0 +1,22 @@
+           if(!temp.hasOwnProperty(info.artist)) {
+                        temp[info.artist] = new Artist();
+                        temp[info.artist].make(info.artist);
+                    }
+
+                    if(!temp[info.artist].hasAlbum(info.album))
+                        temp[info.artist].addAlbum(info.album);
+
+                    let hashed = crypto.createHash('md5').update(temppath).digest("hex");
+        
+                    if(!temp[info.artist].albums[info.album].hasTrack(hashed)) {
+
+                        temp[info.artist].albums[info.album].addTrack(
+                            {
+                                title: info.title,
+                                duration: info.duration,
+                                path:temppath,
+                                uid: hashed
+                            }
+                        );
+                
+                    }

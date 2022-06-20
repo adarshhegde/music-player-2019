@@ -1,0 +1,42 @@
+{
+  "name": "music2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "dependencies": {
+    "canvas": "^2.9.1",
+    "compression": "^1.7.3",
+    "cookie-parser": "~1.4.3",
+    "debug": "~2.6.9",
+    "express": "~4.16.0",
+    "express-messages": "*",
+    "express-session": "*",
+    "express-validator": "*",
+    "http-errors": "~1.6.2",
+    "huey": "^2.0.0",
+    "jade": "~1.11.0",
+    "jsdom": "^13.1.0",
+    "memory-cache": "^0.2.0",
+    "mongodb": "*",
+    "mongoose": "*",
+    "morgan": "~1.9.0",
+    "multer": "*",
+    "music-metadata": "^3.1.5",
+    "node-fetch": "^2.3.0",
+    "node-ip": "^0.1.2",
+    "node-key-sender": "^1.0.10",
+    "node-vibrant": "^3.0.0",
+    "passport": "*",
+    "passport-http": "*",
+    "passport-local": "*",
+    "serve-favicon": "*",
+    "sharp": "*",
+    "streamifier": "^0.1.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
